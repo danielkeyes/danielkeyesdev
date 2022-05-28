@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Keyes</title>
+    <link>https://www.danielkeyes.dev/</link>
+    <description>Recent content on Daniel Keyes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 28 May 2022 10:26:44 -0500</lastBuildDate><atom:link href="https://www.danielkeyes.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thereveal</title>
+      <link>https://www.danielkeyes.dev/thereveal/</link>
+      <pubDate>Sat, 28 May 2022 15:39:16 -0500</pubDate>
+      
+      <guid>https://www.danielkeyes.dev/thereveal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://www.danielkeyes.dev/about/</link>
+      <pubDate>Sat, 28 May 2022 15:34:28 -0500</pubDate>
+      
+      <guid>https://www.danielkeyes.dev/about/</guid>
+      <description>Current Android developer for a financial institution.
+Experience I have eight years of experience doing software development with the previous three years primarily doing native Android development. I currently work primarily in Kotlin as well as Java.
+Education Masters in Computer Science, Texas State University, 2012
+Bachelors in Computer Science, Texas State University, 2008
+Personal Currently I live in San Antonio Texas with my wife and our three rescue dogs. I am a Texas native but will always have a special place in my heart for Colorado which I visit frequently with my wife for the beautiful scenery and spectacular trails.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://www.danielkeyes.dev/posts/hello-world/</link>
+      <pubDate>Sat, 28 May 2022 10:26:44 -0500</pubDate>
+      
+      <guid>https://www.danielkeyes.dev/posts/hello-world/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
