@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "dev.danielkeyes.thereveal",
-    "sha256_cert_fingerprints":
-    ["B9:3E:34:FA:A6:58:28:49:6A:DD:0E:03:E8:E0:26:B7:5F:D9:23:E0:A2:0A:9E:09:47:DF:EC:97:D2:B9:1F:77"]
-  }
-}]
