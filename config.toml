@@ -14,6 +14,10 @@ title = "Daniel Keyes"
 
 theme = "hugo-goa"
 
+[markup.goldmark.renderer]
+hardWraps= true
+unsafe= true
+
 ## Hugo Built-in Features
 # disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
 googleAnalytics = ""
@@ -23,7 +27,7 @@ enableRobotsTXT = true
 [params]
 author = "Daniel Keyes"
 intro = "Software Developer (Android/Kotlin/Java)"
-description = "I currently do Android native development for a financial institution."
+description = "I currently do Android native development for a financial institution"
 authorimage = "SquareProfile.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -34,7 +38,7 @@ keywords = "android,kotlindeveloper,danielkeyes"
 
 ## Social Accounts
 [params.social]
-github = "danielkeyesdev"
+github = "danielkeyes"
 linkedin = "danielkeyesdev"
 twitter = "danielkeyesdev"
 email = "daniel@danielkeyes.dev"

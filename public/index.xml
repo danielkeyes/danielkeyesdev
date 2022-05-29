@@ -8,18 +8,18 @@
     <language>en-US</language>
     <lastBuildDate>Sat, 28 May 2022 10:26:44 -0500</lastBuildDate><atom:link href="https://www.danielkeyes.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Thereveal</title>
-      <link>https://www.danielkeyes.dev/thereveal/</link>
-      <pubDate>Sat, 28 May 2022 15:39:16 -0500</pubDate>
+      <title>Hello World</title>
+      <link>https://www.danielkeyes.dev/posts/hello-world/</link>
+      <pubDate>Sat, 28 May 2022 10:26:44 -0500</pubDate>
       
-      <guid>https://www.danielkeyes.dev/thereveal/</guid>
+      <guid>https://www.danielkeyes.dev/posts/hello-world/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About Me</title>
       <link>https://www.danielkeyes.dev/about/</link>
-      <pubDate>Sat, 28 May 2022 15:34:28 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.danielkeyes.dev/about/</guid>
       <description>Current Android developer for a financial institution.
@@ -30,12 +30,14 @@ Personal Currently I live in San Antonio Texas with my wife and our three rescue
     </item>
     
     <item>
-      <title>Hello World</title>
-      <link>https://www.danielkeyes.dev/posts/hello-world/</link>
-      <pubDate>Sat, 28 May 2022 10:26:44 -0500</pubDate>
+      <title>The Reveal - Android App</title>
+      <link>https://www.danielkeyes.dev/thereveal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.danielkeyes.dev/posts/hello-world/</guid>
-      <description></description>
+      <guid>https://www.danielkeyes.dev/thereveal/</guid>
+      <description>View Your Reveal To view your reveal, please download the app, The Reveal, from the Android App store and paste your code into the reveal block and hit the reveal button.
+If you have the app installed, you can also click the shared reveal link from your Android device to load the reveal directly into the app.
+About The Reveal I created this app as a way to do the birth reveal for my brother who is also an Android developer.</description>
     </item>
     
   </channel>
