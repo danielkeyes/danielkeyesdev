@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://www.danielkeyes.dev" 
+baseurl = "https://danielkeyesdev.pages.dev/" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
