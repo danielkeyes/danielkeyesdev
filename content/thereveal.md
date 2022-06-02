@@ -28,3 +28,6 @@ Android App Store: ***[The Reveal](https://play.google.com/store/apps/details?id
 
 ---
 
+My Generate Privacy Promise: ***[Privacy Promise](https://www.danielkeyes.dev/thereveal/privacypromise)***
+
+---
