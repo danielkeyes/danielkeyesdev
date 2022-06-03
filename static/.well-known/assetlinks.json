@@ -1,9 +1,11 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "dev.danielkeyes.thereveal",
-    "sha256_cert_fingerprints":
-    ["B9:3E:34:FA:A6:58:28:49:6A:DD:0E:03:E8:E0:26:B7:5F:D9:23:E0:A2:0A:9E:09:47:DF:EC:97:D2:B9:1F:77"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.danielkeyes.thereveal",
+      "sha256_cert_fingerprints":
+      ["3C:F4:C4:A5:AF:5E:73:E1:C2:6F:C2:BE:9D:1A:6D:04:73:F7:0C:6D:BD:C6:46:3E:A2:F1:AC:7F:E4:D2:32:33"]
+    }
   }
-}]
+]
