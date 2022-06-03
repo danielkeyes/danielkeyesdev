@@ -138,6 +138,10 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 - By sending an email to: daniel@danielkeyes.dev  
 
+---
+
+***{{< linkpage page="/thereveal/" title="Take me back" >}}***
+
 --- 
 
 Android App Store: ***[The Reveal](https://play.google.com/store/apps/details?id=dev.danielkeyes.thereveal)***
