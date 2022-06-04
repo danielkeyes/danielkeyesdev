@@ -33,7 +33,7 @@ dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
+description = "Android Developer"
 keywords = "android,kotlindeveloper,danielkeyes"
 
 ## Social Accounts
