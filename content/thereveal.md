@@ -14,7 +14,7 @@ If you have the app installed, you can also click the shared reveal link from yo
 
 ## About The Reveal
 
-I created this app as a way to do the birth reveal for my brother who is also an Android developer. I thought this would be a fun way to share details of his new nephew.
+I created this app as a way share my child's birth reveal. I thought this would be a fun way to announce the birth details of mine and my wife's first child.
 
 I also wanted to get some practice taking an App all the way from initial idea to the Android app store. 
 

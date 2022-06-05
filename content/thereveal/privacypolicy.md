@@ -4,7 +4,7 @@ title: "The Reveal - Privacy Policy"
 
 ## Too Long Didn't Read....
 
-We do not collect any of your data. The link generated for sharing your reveal is just your reveal details encoded into a code string appended onto the reveal link. The code is on your device, and anyone you share it with. We do not post it to anywhere!
+We do not collect any of your data. The link generated for sharing your reveal is just your reveal details encoded into a code string appended onto the reveal link. The code is generated strictly on your device, and then it is up to you to share it with whomever. The generated code only goes to the people you share it with!
 
 ## Privacy Policy
 Last updated: June 02, 2022
