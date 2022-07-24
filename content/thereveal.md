@@ -16,7 +16,7 @@ If you have the app installed, you can also click the shared reveal link from yo
 
 I created this app as a way share my child's birth reveal. I thought this would be a fun way to announce the birth details of mine and my wife's first child.
 
-I also wanted to get some practice taking an App all the way from initial idea to the Android app store. 
+I also wanted to get some practice taking an app all the way from initial idea to the Android app store. 
 
 This was written in my free time as just another way for me to continue my Android development practice. This is a free app and comes with no expressed warranty or guarantees. If you have any feedback, please reach out at ***daniel@danielkeyes.dev***. 
 
