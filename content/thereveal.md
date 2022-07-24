@@ -1,10 +1,8 @@
 ---
-title: "The Reveal - Android App"
+title: "The Reveal - Android app"
 ---  
 
-<img src="../img/TheRevealPlayStoreIcon.png" alt="The Reveal Android App"  width="200" height="200">
-<br>
-<br>
+
 
 ## View Your Reveal
 
