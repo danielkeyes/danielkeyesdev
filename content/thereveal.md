@@ -1,8 +1,8 @@
 ---
 title: "The Reveal - Android app"
----  
+---
 
-
+{{< figure src="images/TheRevealPlayStoreIcon.png" width="300px">}}
 
 ## View Your Reveal
 
