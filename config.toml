@@ -55,8 +55,3 @@ hightlightjs = true
     identifier = "about"
     weight = 200
     url = "/about/"
-[[menu.main]]
-    name = "The Reveal"
-    identifier = "thereveal"
-    weight = 300
-    url = "/thereveal/"
