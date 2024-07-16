@@ -1,4 +1,8 @@
-# www.danielkeyes.dev
+# www.danielkeyes.dev (Replaced)
+
+I have switched to a new HTML only simple project since I need to make updates without haveing to set up hugo each time when switching PCs.
+Also, Hugo was great, but is more for blog style websites.
+new simple website project [here](https://github.com/danielkeyes/danielkeyesdevhtml)
 
 This is the project that holds my personal website
 
